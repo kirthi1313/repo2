@@ -1,0 +1,12 @@
+Did NN O O
+you NN O O
+get NN O O
+my NN O O
+text NN O CHAT
+? NN O O
+
+I NN O O
+received NN O O
+the NN O O
+text NN O CHAT
+. NN O O
