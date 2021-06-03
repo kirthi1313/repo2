@@ -1,0 +1,19 @@
+Stay NN O O
+active NN O CHAT
+and NN O O
+lets NN O O
+have NN O O
+a NN O O
+chat NN O CHAT
+. NN O O
+
+Chatbot NN O CHAT
+has NN O O
+answered NN O CHAT
+. NN O O
+
+Communicate NN O CHAT
+with NN O O
+the NN O O
+users NN O O
+. NN O O
