@@ -10,3 +10,83 @@ received NN O O
 the NN O O
 text NN O CHAT
 . NN O O
+
+When NN O O
+shall NN O O
+I NN O O
+message NN O CHAT
+you NN O O
+? NN O O
+
+Can NN O O
+we NN O O
+talk NN O CHAT
+about NN O O
+something NN O O
+that NN O O
+interests NN O CHAT
+me NN O O
+? NN O O
+
+Are NN O O
+you NN O O
+busy? NN O CHAT
+I NN O O
+want NN O O
+to NN O O
+talk NN O CHAT
+to NN O O
+someone NN O O
+like NN O O
+you NN O O
+. NN O O
+
+We NN O O
+received NN O CHAT
+a NN O O
+conversation NN O CHAT
+. NN O O
+
+We NN O O
+chatted NN O CHAT
+with NN O O
+a NN O O
+robot NN O CHAT
+. NN O O
+
+Is NN O O
+it NN O O
+an NN O O
+automated NN O CHAT
+message NN O CHAT
+? NN O O
+
+Tell NN O CHAT
+me NN O O
+about NN O O
+yourself NN O O
+? NN O O
+
+I NN O O
+need NN O O
+to NN O O
+know NN O CHAT
+more NN O CHAT
+about NN O CHAT
+you NN O O
+. NN O O
+
+I NN O O
+never NN O O
+spoke NN O CHAT
+with NN O O
+an NN O O
+AI NN O CHAT
+before NN O O
+. NN O O
+
+Can NN O O
+you NN O O
+answer NN O CHAT
+please NN O O
+? NN O O
