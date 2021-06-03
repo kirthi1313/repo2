@@ -1,0 +1,171 @@
+I NN 0 0
+want NN 0 0
+to NN 0 0
+talk NN 0
+CHAT
+with NN 0 0
+you NN 0 0
+. NN 0 0
+
+Should NN 0
+0
+we NN 0 0
+message NN
+0 CHAT
+? NN 0 CHAT
+
+Did NN 0 0
+you NN 0 0
+get NN 0 0
+my NN 0 0
+text NN 0
+CHAT
+? NN 0 CHAT
+
+I NN 0 0
+received NN
+00
+the NN 0 0
+text NN 0
+CHAT
+. NN 0 CHAT
+
+I NN 0 0
+want NN 0 0
+to NN 0 0
+talk NN 0
+CHAT
+with NN 0 0
+an NN 0 0
+AI NN 0
+CHAT
+. NN 0 CHAT
+
+When NN 0 0
+shall NN 0 0
+I NN 0 0
+message NN
+0 CHAT
+you NN 0 0
+? NN 0 0
+
+Can NN 0 0
+we NN 0 0
+talk NN 0
+CHAT
+about NN 0 0
+something
+NN 0 0
+that NN 0 0
+interests NN
+0 CHAT
+me NN 0 0
+? NN 0 0
+
+Are NN 0 0
+you NN 0 0
+busy? NN 0
+CHAT
+I NN 0 0
+want NN 0 0
+to NN 0 0
+talk NN 0
+CHAT
+
+to NN 0 0
+someone NN
+00
+like NN 0 0
+you NN 0 0
+. NN 0 0
+
+We NN 0 0
+received NN
+0 CHAT
+a NN 0 0
+conversation
+NN 0 CHAT
+. NN 0 CHAT
+
+We NN 0 0
+chatted NN 0
+CHAT
+with NN 0 0
+a NN 0 0
+robot NN 0
+CHAT
+. NN 0 CHAT
+
+Is NN 0 0
+it NN 0 0
+an NN 0 0
+automated
+NN 0 CHAT
+message NN
+0 CHAT
+? NN 0 CHAT
+
+Tell NN 0
+CHAT
+me NN 0 0
+about NN 0 0
+yourself NN 0
+0
+? NN 0 0
+
+I NN 0 0
+need NN 0 0
+to NN 0 0
+know NN 0
+CHAT
+more NN 0
+CHAT
+about NN 0
+CHAT
+you NN 0 0
+. NN 0 0
+
+I NN 0 0
+never NN 0 0
+spoke NN 0
+CHAT
+with NN 0 0
+an NN 0 0
+AI NN 0
+CHAT
+before NN 0 0
+. NN 0 0
+
+Can NN 0 0
+you NN 0 0
+answer NN 0
+CHAT
+please NN 0
+0
+? NN 0 0
+
+Stay NN 0 0
+active NN 0
+CHAT
+and NN 0 0
+lets NN 0 0
+have NN 0 0
+a NN 0 0
+chat NN 0
+CHAT
+. NN 0 CHAT
+
+Chatbot NN 0
+CHAT
+has NN 0 0
+answered NN
+0 CHAT
+. NN 0 CHAT
+
+Communicate
+NN 0 CHAT
+with NN 0 0
+the NN 0 0
+users NN 0 0
+. NN 0 0
+
