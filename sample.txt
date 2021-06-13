@@ -1,69 +1,469 @@
-Stay NN O O
-active NN O CHAT
-and NN O O
-lets NN O O
-have NN O O
-a NN O O
-chat NN O CHAT
-. NN O O
-
-Chatbot NN O CHAT
-has NN O O
-answered NN O CHAT
-. NN O O
-
-Communicate NN O CHAT
-with NN O O
-the NN O O
-users NN O O
-. NN O O
-
-We NN O O
-received NN O CHAT
-a NN O O
-conversation NN O CHAT
-. NN O O
-
-We NN O O
-chatted NN O CHAT
-with NN O O
-a NN O O
-robot NN O CHAT
-. NN O O
-
-Is NN O O
-it NN O O
-an NN O O
-automated NN O CHAT
-message NN O CHAT
-? NN O O
-
-Tell NN O CHAT
-me NN O O
-about NN O O
-yourself NN O O
-? NN O O
-
-I NN O O
-need NN O O
-to NN O O
-know NN O CHAT
-more NN O CHAT
-about NN O CHAT
-you NN O O
-. NN O O
-
-I NN O O
-never NN O O
-spoke NN O CHAT
-with NN O O
-an NN O O
-AI NN O CHAT
-before NN O O
-. NN O O
-
-Can NN O O
-you NN O O
-answer NN O CHAT
-please NN O O
-? NN O O
+Stay	NN	O	O
+active	NN	O	CHAT
+and	NN	O	O
+lets	NN	O	O
+have	NN	O	O
+a	NN	O	O
+chat	NN	O	CHAT
+.	NN	O	O
+			
+Chatbot	NN	O	CHAT
+has	NN	O	O
+answered	NN	O	CHAT
+.	NN	O	O
+			
+Communicate	NN	O	CHAT
+with	NN	O	O
+the	NN	O	O
+users	NN	O	O
+.	NN	O	O
+			
+We	NN	O	O
+received	NN	O	CHAT
+a	NN	O	O
+conversation	NN	O	CHAT
+.	NN	O	O
+			
+We	NN	O	O
+chatted	NN	O	CHAT
+with	NN	O	O
+a	NN	O	O
+robot	NN	O	CHAT
+.	NN	O	O
+			
+Is	NN	O	O
+it	NN	O	O
+an	NN	O	O
+automated	NN	O	CHAT
+message	NN	O	CHAT
+?	NN	O	O
+			
+Tell	NN	O	CHAT
+me	NN	O	O
+about	NN	O	O
+yourself	NN	O	O
+?	NN	O	O
+			
+I	NN	O	O
+need	NN	O	O
+to	NN	O	O
+know	NN	O	CHAT
+more	NN	O	CHAT
+about	NN	O	CHAT
+you	NN	O	O
+.	NN	O	O
+			
+I	NN	O	O
+never	NN	O	O
+spoke	NN	O	CHAT
+with	NN	O	O
+an	NN	O	O
+AI	NN	O	CHAT
+before	NN	O	O
+.	NN	O	O
+			
+Can	NN	O	O
+you	NN	O	O
+answer	NN	O	CHAT
+please	NN	O	O
+?	NN	O	O
+			
+Amuse	NN	O	CHAT
+me	NN	O	O
+with	NN	O	O
+a	NN	O	O
+tale	NN	O	CHAT
+.	NN	O	O
+			
+Can	NN	O	O
+you	NN	O	O
+get	NN	O	CHAT
+me	NN	O	O
+to	NN	O	O
+laugh	NN	O	CHAT
+?	NN	O	O
+			
+Can	NN	O	O
+you	NN	O	O
+make	NN	O	CHAT
+me	NN	O	O
+laugh	NN	O	CHAT
+?	NN	O	O
+			
+me	NN	O	O
+up	NN	O	CHAT
+tell	NN	O	CHAT
+me	NN	O	O
+a	NN	O	O
+funny	NN	O	CHAT
+story	NN	O	CHAT
+or	NN	O	O
+a	NN	O	O
+joke	NN	O	CHAT
+Do	NN	O	O
+you	NN	O	O
+know	NN	O	CHAT
+any	NN	O	O
+funny	NN	O	CHAT
+jokes	NN	O	CHAT
+?	NN	O	O
+			
+Do	NN	O	O
+you	NN	O	O
+know	NN	O	CHAT
+any	NN	O	CHAT
+funny	NN	O	CHAT
+stories	NN	O	CHAT
+?	NN	O	O
+			
+Do	NN	O	O
+you	NN	O	O
+know	NN	O	CHAT
+any	NN	O	CHAT
+jokes	NN	O	CHAT
+?	NN	O	O
+			
+Do	NN	O	O
+you	NN	O	O
+know	NN	O	CHAT
+any	NN	O	CHAT
+puns	NN	O	CHAT
+?	NN	O	O
+			
+Hello	NN	O	O
+Robot	NN	O	CHAT
+","	NN	O	O
+			
+I	NN	O	O
+am	NN	O	O
+feeling	NN	O	CHAT
+bored	NN	O	CHAT
+today	NN	O	CHAT
+.	NN	O	O
+			
+Do	NN	O	O
+you	NN	O	O
+have	NN	O	O
+any	NN	O	CHAT
+funny	NN	O	CHAT
+stories	NN	O	CHAT
+?	NN	O	O
+			
+Can	NN	O	O
+you	NN	O	O
+tell	NN	O	CHAT
+me	NN	O	O
+a	NN	O	O
+joke	NN	O	CHAT
+please	NN	O	CHAT
+?	NN	O	O
+			
+I	NN	O	O
+would	NN	O	O
+like	NN	O	CHAT
+to	NN	O	O
+hear	NN	O	CHAT
+something	NN	O	CHAT
+funny	NN	O	CHAT
+.	NN	O	O
+			
+I	NN	O	O
+want	NN	O	O
+to	NN	O	O
+laugh	NN	O	CHAT
+Im	NN	O	O
+feeling	NN	O	CHAT
+down	NN	O	CHAT
+Cheer	NN	O	CHAT
+me	NN	O	O
+up	NN	O	CHAT
+?	NN	O	O
+			
+Tell	NN	O	CHAT
+a	NN	O	O
+joke	NN	O	CHAT
+?	NN	O	O
+			
+Im	NN	O	O
+feeling	NN	O	CHAT
+sad	NN	O	CHAT
+.	NN	O	O
+			
+Can	NN	O	O
+you	NN	O	O
+Cheer	NN	O	CHAT
+me	NN	O	O
+up	NN	O	CHAT
+with	NN	O	O
+a	NN	O	O
+joke	NN	O	CHAT
+?	NN	O	O
+			
+Im	NN	O	O
+sad	NN	O	CHAT
+.	NN	O	O
+			
+today	NN	O	CHAT
+entertain	NN	O	CHAT
+me	NN	O	O
+Im	NN	O	O
+so	NN	O	O
+bored	NN	O	CHAT
+this	NN	O	CHAT
+afternoon	NN	O	CHAT
+.	NN	O	O
+			
+Can	NN	O	O
+you	NN	O	O
+say	NN	O	CHAT
+something	NN	O	CHAT
+funny	NN	O	CHAT
+to	NN	O	O
+make	NN	O	CHAT
+my	NN	O	CHAT
+day	NN	O	CHAT
+more	NN	O	CHAT
+exciting	NN	O	CHAT
+?	NN	O	O
+			
+Make	NN	O	CHAT
+a	NN	O	O
+joke	NN	O	CHAT
+Please	NN	O	CHAT
+can	NN	O	O
+you	NN	O	O
+make	NN	O	CHAT
+me	NN	O	O
+a	NN	O	O
+laugh	NN	O	CHAT
+?	NN	O	O
+			
+Please	NN	O	CHAT
+say	NN	O	CHAT
+something	NN	O	CHAT
+funny	NN	O	CHAT
+or	NN	O	CHAT
+hilarious	NN	O	CHAT
+Please	NN	O	CHAT
+tell	NN	O	CHAT
+me	NN	O	O
+a	NN	O	O
+joke	NN	O	CHAT
+Say	NN	O	CHAT
+something	NN	O	CHAT
+funny	NN	O	CHAT
+say	NN	O	CHAT
+something	NN	O	CHAT
+hilarious	NN	O	CHAT
+.	NN	O	O
+			
+I	NN	O	O
+want	NN	O	O
+to	NN	O	O
+have	NN	O	O
+some	NN	O	CHAT
+fun	NN	O	CHAT
+!	NN	O	O
+			
+Tell	NN	O	CHAT
+me	NN	O	O
+a	NN	O	O
+joke	NN	O	CHAT
+tell	NN	O	CHAT
+me	NN	O	O
+a	NN	O	O
+funny	NN	O	CHAT
+story	NN	O	CHAT
+.	NN	O	O
+			
+tell	NN	O	CHAT
+me	NN	O	O
+a	NN	O	O
+story	NN	O	CHAT
+that	NN	O	CHAT
+you	NN	O	O
+think	NN	O	CHAT
+is	NN	O	O
+funny	NN	O	CHAT
+What	NN	O	O
+is	NN	O	O
+the	NN	O	O
+funniest	NN	O	CHAT
+thing	NN	O	CHAT
+that	NN	O	O
+someone	NN	O	CHAT
+ever	NN	O	CHAT
+told	NN	O	CHAT
+you	NN	O	CHAT
+?	NN	O	O
+			
+What	NN	O	O
+is	NN	O	O
+the	NN	O	O
+funniest	NN	O	CHAT
+thing	NN	O	CHAT
+you	NN	O	O
+have	NN	O	O
+ever	NN	O	O
+heard	NN	O	CHAT
+of	NN	O	CHAT
+?	NN	O	O
+			
+What	NN	O	O
+is	NN	O	O
+the	NN	O	O
+most	NN	O	CHAT
+hilarious	NN	O	CHAT
+thing	NN	O	CHAT
+you	NN	O	O
+have	NN	O	O
+ever	NN	O	CHAT
+heard	NN	O	CHAT
+When	NN	O	O
+have	NN	O	O
+you	NN	O	O
+laughed	NN	O	CHAT
+hardest	NN	O	CHAT
+?	NN	O	O
+			
+Would	NN	O	O
+you	NN	O	O
+tell	NN	O	CHAT
+me	NN	O	O
+a	NN	O	O
+joke	NN	O	CHAT
+?	NN	O	O
+			
+Or	NN	O	CHAT
+a	NN	O	O
+funny	NN	O	CHAT
+story	NN	O	CHAT
+?	NN	O	O
+			
+Something	NN	O	CHAT
+to	NN	O	O
+brighten	NN	O	CHAT
+my	NN	O	O
+day	NN	O	CHAT
+please	NN	O	O
+I	NN	O	O
+need	NN	O	CHAT
+something	NN	O	CHAT
+to	NN	O	O
+Cheer	NN	O	CHAT
+me	NN	O	O
+up	NN	O	CHAT
+because	NN	O	CHAT
+I	NN	O	O
+am	NN	O	O
+in	NN	O	O
+a	NN	O	O
+bad	NN	O	CHAT
+mood	NN	O	CHAT
+.	NN	O	O
+			
+Are	NN	O	O
+you	NN	O	O
+at	NN	O	O
+home	NN	O	CHAT
+or	NN	O	O
+are	NN	O	O
+you	NN	O	O
+outside	NN	O	CHAT
+?	NN	O	O
+			
+Are	NN	O	O
+you	NN	O	O
+indoors	NN	O	CHAT
+or	NN	O	O
+outdoors	NN	O	CHAT
+?	NN	O	O
+			
+Are	NN	O	O
+you	NN	O	O
+inside	NN	O	CHAT
+or	NN	O	O
+outside	NN	O	CHAT
+?	NN	O	O
+			
+Are	NN	O	O
+you	NN	O	O
+inside	NN	O	CHAT
+the	NN	O	O
+house	NN	O	CHAT
+?	NN	O	O
+			
+Are	NN	O	O
+you	NN	O	O
+in	NN	O	O
+the	NN	O	O
+gardern	NN	O	CHAT
+?	NN	O	O
+			
+Did	NN	O	O
+you	NN	O	O
+go	NN	O	O
+outside	NN	O	CHAT
+for	NN	O	O
+a	NN	O	O
+bit	NN	O	CHAT
+in	NN	O	O
+the	NN	O	O
+end	NN	O	CHAT
+or	NN	O	O
+did	NN	O	O
+you	NN	O	O
+chill	NN	O	CHAT
+at	NN	O	O
+home	NN	O	CHAT
+?	NN	O	O
+			
+Im	NN	O	O
+heading	NN	O	CHAT
+to	NN	O	O
+the	NN	O	O
+bus	NN	O	CHAT
+stop	NN	O	CHAT
+where	NN	O	O
+can	NN	O	O
+I	NN	O	O
+find	NN	O	CHAT
+you	NN	O	CHAT
+?	NN	O	O
+			
+Look	NN	O	CHAT
+around	NN	O	CHAT
+and	NN	O	O
+tell	NN	O	CHAT
+me	NN	O	O
+where	NN	O	O
+you	NN	O	O
+are	NN	O	O
+.	NN	O	O
+			
+Take	NN	O	CHAT
+a	NN	O	O
+look	NN	O	CHAT
+at	NN	O	O
+your	NN	O	CHAT
+surroundings	NN	O	CHAT
+and	NN	O	O
+tell	NN	O	CHAT
+me	NN	O	O
+where	NN	O	O
+you	NN	O	O
+are	NN	O	O
+.	NN	O	O
+			
+What	NN	O	O
+is	NN	O	O
+out	NN	O	CHAT
+location	NN	O	CHAT
+?	NN	O	O
+			
+What	NN	O	O
+is	NN	O	O
+your	NN	O	O
+current	NN	O	CHAT
+location	NN	O	CHAT
+?	NN	O	O
