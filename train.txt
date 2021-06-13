@@ -467,3 +467,9 @@ your NN O O
 current NN O CHAT
 location NN O CHAT
 ? NN O O
+   
+What NN O O
+is NN O O
+out NN O CHAT
+location NN O CHAT
+? NN O O
